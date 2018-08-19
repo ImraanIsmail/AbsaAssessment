@@ -67,35 +67,35 @@ https://jmeter-plugins.org/wiki/PluginsManager/
  8. Project Notes
  I have created a class for each question for this task as follows:
  
-** Question 1.
+** Question 1
+
  - Navigate to - http://www.way2automation.com/angularjs-protractor/webtables/
- 
-- Class Name: SiteNav.java
+ - Class Name: SiteNav.java
 
 ** Question 2
+
  - Validate that you are on the User List Table
- 
-- Class Name: validateUserListTable.java
+ - Class Name: validateUserListTable.java
 
 ** Question 3
+
  - Add user
- 
-- Class Name: AddUserButton.java
+ - Class Name: AddUserButton.java
 
 ** Question 4
-- Add users with the following details
 
+- Add users with the following details
 - Class Name: addUserDetails.java
 
 ** Question 5
+
  - Ensure that User Name (*) is unique on each run
- 
-- Class Name: UniqueUserId.java
+ - Class Name: UniqueUserId.java
 
 ** Question 6
+
  - Ensure that your users are added to the list
- 
-- Class Name: ValidateNewUsers.java
+ - Class Name: ValidateNewUsers.java
 
 
 
